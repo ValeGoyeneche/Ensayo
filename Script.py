@@ -1,3 +1,2 @@
 print("Hola mundo")
-print("Chachacha")
-print("Valentinaaaaaaaaa")
+ardilla = input("Ingrese el nombre de su ardilla")
